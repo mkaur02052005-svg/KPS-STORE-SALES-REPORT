@@ -35,22 +35,22 @@ Customer Segmentation
 ### Dataset Information
 The dataset contains transactional records including:
 Feature	Description
-Order ID	Unique transaction identifier
-Order Date	Purchase date
-Month	Time-based analysis
-Customer Name	Buyer details
-Age & Age Group	Customer segmentation
-Gender	Demographic analysis
-City / Region	Geographic performance
-Product Category	Category-level insights
-Product Name	Item-level tracking
-Units Sold	Quantity purchased
-Unit Price	Price per unit
-Total Sales	Revenue generated
-Payment Mode	Purchase method
-Delivery Days	Shipping efficiency
-Customer Rating	Satisfaction score
-Repeat Purchase	Loyalty indicator
+* Order ID	Unique transaction identifier
+* Order Date	Purchase date
+* Month	Time-based analysis
+* Customer Name	Buyer details
+* Age & Age Group	Customer segmentation
+* Gender	Demographic analysis
+* City / Region	Geographic performance
+* Product Category	Category-level insights
+* Product Name	Item-level tracking
+* Units Sold	Quantity purchased
+* Unit Price	Price per unit
+* Total Sales	Revenue generated
+* Payment Mode	Purchase method
+* Delivery Days	Shipping efficiency
+* Customer Rating	Satisfaction score
+* Repeat Purchase	Loyalty indicator
 
 ### Key Analysis Performed
 🔹 Sales Trend Analysis
