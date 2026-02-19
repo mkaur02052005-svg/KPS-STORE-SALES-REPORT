@@ -3,11 +3,11 @@ KPS Store Sales Analysis (Excel Data Analytics Project)
 ### Project Summary
 This project analyzes KPS Store 2024 sales data using Microsoft Excel to uncover business insights related to customer behavior, product performance, and operational efficiency.
 The goal is to transform raw transactional data into a decision-support dashboard that helps businesses understand:
-### What sells the most
-## Who the customers are
-## When sales peak
-## Where revenue is coming from
-## How delivery impacts satisfaction
+Q What sells the most
+Q Who the customers are
+Q When sales peak
+Q Where revenue is coming from
+Q How delivery impacts satisfaction
 
  ### Objective
 To perform data-driven sales analysis and build an interactive Excel dashboard that enables:
