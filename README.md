@@ -2,7 +2,7 @@
 KPS Store Sales Analysis (Excel Data Analytics Project)
 ### Project Summary
 This project analyzes KPS Store 2024 sales data using Microsoft Excel to uncover business insights related to customer behavior, product performance, and operational efficiency.
-The goal is to transform raw transactional data into a decision-support dashboard that helps businesses understand:
+The goal is to transform raw transactional data into a decision-support dashboard that helps businesses understand:<br>
 Q What sells the most<br>
 Q Who the customers are<br>
 Q When sales peak<br>
@@ -11,26 +11,26 @@ Q How delivery impacts satisfaction<br>
 
  ### Objective
 To perform data-driven sales analysis and build an interactive Excel dashboard that enables:
-Product-level performance tracking<br>
-Customer segmentation analysis<br>
-Monthly revenue trend evaluation<br>
-Regional sales comparison<br>
-Delivery vs Customer Rating insights<br>
-Repeat purchase identification<br>
+* Product-level performance tracking<br>
+* Customer segmentation analysis<br>
+* Monthly revenue trend evaluation<br>
+* Regional sales comparison<br>
+* Delivery vs Customer Rating insights<br>
+* Repeat purchase identification<br>
 
 ### Tools & Technologies Used
-Microsoft Excel<br>
-Pivot Tables<br>
-Pivot Charts<br>
-Slicers<br>
-Data Cleaning<br>
-Conditional Formatting<br>
-Dashboard Design<br>
-Analytical Techniques<br>
-Exploratory Data Analysis (EDA)<br>
-KPI Analysis<br>
-Trend Analysis<br>
-Customer Segmentation<br>
+* Microsoft Excel<br>
+* Pivot Tables<br>
+* Pivot Charts<br>
+* Slicers<br>
+* Data Cleaning<br>
+* Conditional Formatting<br>
+* Dashboard Design<br>
+* Analytical Techniques<br>
+* Exploratory Data Analysis (EDA)<br>
+* KPI Analysis<br>
+* Trend Analysis<br>
+* Customer Segmentation<br>
 
 ### Dataset Information
 The dataset contains transactional records including:
@@ -73,11 +73,11 @@ Identified customer retention gaps and opportunities<br>
 ### Dashboard Highlights
 
 The Excel dashboard enables users to<br>
-Filter by Month, Category, Gender, Region<br>
-View Sales KPIs dynamically<br>
-Track Customer Demographics<br>
-Analyze Product Rankings<br>
-Compare Delivery Performance vs Satisfaction<br>
+* Filter by Month, Category, Gender, Region<br>
+* View Sales KPIs dynamically<br>
+* Track Customer Demographics<br>
+* Analyze Product Rankings<br>
+* Compare Delivery Performance vs Satisfaction<br>
 
 ### Project Workflow
 
